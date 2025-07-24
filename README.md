@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Dynamic GitHub Profile README for Jeison Ruiz -->
 
-<!--
-**JeissonRuiz02/JeissonRuiz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Jeison Ruiz</h1>
+<h3 align="center">Backend Developer | Cloud Enthusiast | Database Lover | CI/CD Automator</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I’m a **Backend Developer** who thrives on solving challenges and building scalable cloud-native systems. Passionate about clean architecture, automation, and always pushing to learn more!
+
+---
+
+### 💻 Tech Stack
+
+```yaml
+Languages:         Python, Java, JavaScript
+Frameworks:        Django, Spring Boot, Node.js
+Databases:         PostgreSQL, MySQL, MongoDB, Redis
+Cloud Platforms:   AWS (Lambda, S3, EC2), GCP (Cloud Run, Firestore, Pub/Sub)
+DevOps Tools:      Docker, GitHub Actions, Terraform, Git
+```
+---
+### 🛠️ Tools & Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,django,spring,nodejs,postgres,mysql,mongodb,aws,gcp,docker,githubactions,git,vscode" /> </p>
